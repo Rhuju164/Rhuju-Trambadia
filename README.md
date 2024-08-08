@@ -30,7 +30,7 @@
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="https://yourimageurl.com" width="250" alt="Rhuju Trambadia"/>
+    <img src="(https://github.com/Rhuju164/rhuju.github.io/blob/main/a.jpg)" width="250" alt="Rhuju Trambadia"/>
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <h2>Hi there!</h2>
